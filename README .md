@@ -41,6 +41,11 @@ A horizontal bar graph visualizes TOPSIS scores and rankings of different models
 
 ## TOPSIS SCORE
 <img src="Topsis score.png" alt="Response Length Comparison">
+- ROUGE-1_comparison, ROUGE-2_comparison, ROUGE-L_comparison, Response Length_comparison, Response Length:Bar graphs comparing individual metrics.
+<img src="ROUGE-1.png" alt="Response Length Comparison">
+<img src="ROUGE-2.png" alt="Response Length Comparison">
+<img src="ROUGE-L.png" alt="Response Length Comparison">
+<img src="Response length.png" alt="Response Length Comparison">
 ## Dependencies
 - torch: PyTorch library for deep learning.
 - transformers: Hugging Face Transformers library for pre-trained language models.
